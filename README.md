@@ -27,7 +27,7 @@ This project aims to analyze airbnb data in Seattle to provide airbnb hosts a ge
 In this project I hope to help airbnb hosts who are trying to decide prices and improve their guests' satisfaction.
 
 ## File Descriptions
-There is one notebook available here to showcase work related to the above questions. This notebook consists of three parts adressing each research question. The detailed descriptions are available within the notebook.
+There is one notebook (named "UdacityP1") available here to showcase work related to the above questions. This notebook consists of three parts adressing each research question. The detailed descriptions are available within the notebook.
 ## Results
 The main findings of the code can be found at the post available here: 
 
