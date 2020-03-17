@@ -29,7 +29,7 @@ In this project I hope to help airbnb hosts who are trying to decide prices and 
 ## File Descriptions
 There is one notebook (named "UdacityP1") available here to showcase work related to the above questions. This notebook consists of three parts adressing each research question. The detailed descriptions are available within the notebook.
 ## Results
-The main findings of the code can be found at the post available here: 
+The main findings of the code can be found at the post available here: https://medium.com/@nkibrislioglu/need-to-know-for-airbnb-hosts-5165320d1447?sk=2f94c208186d485e5d624eca3c6675f5
 
 ## Licensing, Authors, and Acknowledgements
 Airbnb data set is used in this project. You can find additional information about the data here: https://www.kaggle.com/airbnb/seattle/data
